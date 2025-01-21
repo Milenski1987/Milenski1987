@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, my name is Milen Nikolov.
 
-<!--
-**Milenski1987/Milenski1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me:
+<img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/0a703ad1-fe4e-434d-8051-57680a19fae2">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning Python at [SoftUni](https://softuni.bg)  
+
+- 📫 You can found me at: milenski1987@icloud.com or [Facebook](https://www.facebook.com/Milenski1987)   
+
+
+
