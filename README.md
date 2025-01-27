@@ -12,7 +12,7 @@ About me:
 
 ---
 
-:hammer_and_wrench: Languages, Tools, Technologies :
+:hammer_and_wrench: Programming Languages, Tools, Technologies :
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
