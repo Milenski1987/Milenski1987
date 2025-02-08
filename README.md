@@ -8,7 +8,7 @@ About me:
 
 - 🌱 I’m currently learning Python at [SoftUni](https://softuni.bg)  
 
-- 📫 You can found me at: milenski1987@icloud.com or [Facebook](https://www.facebook.com/Milenski1987)
+- 📫 You can found me at: milenski1987@icloud.com , milenski1987@gmail.com or [Facebook](https://www.facebook.com/Milenski1987)
 
 ---
 
