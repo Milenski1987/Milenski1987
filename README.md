@@ -3,13 +3,27 @@
 <img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/0a703ad1-fe4e-434d-8051-57680a19fae2">
 About me:
 
-
-
-
 - 🌱 I’m Python Developer
 
+- 🧐 I am interested in::
+  * Programming
+  * Apple Products
+  * Wearable Tech & Smart Devices
+  * Formula 1
+  
+- 🗣️ Languages:
+  * English
+  * Bulgarian
+    
+- 🎧 My Hobbies:
+  * Listening to good music
+  * Working out in fitness
+  * Gaming
 
-- 📫 You can find me at: milenski.nikolov@yahoo.com or [LinkedIn](www.linkedin.com/in/milen-nikolov-62455034b)
+- 📫 You can find me at:
+  * <img align="left" width="25" height="25" src="https://github.com/user-attachments/assets/e77799bd-8a56-47ed-bd0e-d6c766f30e20">milenski.nikolov@yahoo.com
+  * <img align="left" width="25" height="25" src="https://github.com/user-attachments/assets/f9e5db2e-41c5-45bc-b833-17520ce3c2c7">[LinkedIn](www.linkedin.com/in/milen-nikolov-62455034b)
+
 
 ---
 
