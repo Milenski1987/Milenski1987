@@ -17,6 +17,7 @@ About me:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" title="PyCharm" **alt="PyCharm" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JS" **alt="JS" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg" title="Apple" **alt="Apple" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" title="Windows" **alt="Windows" width="40" height="40"/>
