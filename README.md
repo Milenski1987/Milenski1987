@@ -9,7 +9,7 @@ About me:
 - 🌱 I’m Python Developer
 
 
-- 📫 You can find me at: milenski.nikolov@yahoo.com
+- 📫 You can find me at: milenski.nikolov@yahoo.com or [LinkedIn](www.linkedin.com/in/milen-nikolov-62455034b)
 
 ---
 
