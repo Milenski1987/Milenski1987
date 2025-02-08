@@ -6,7 +6,8 @@ About me:
 
 
 
-- 🌱 I’m currently learning Python at [SoftUni](https://softuni.bg)  
+- 🌱 I’m Python Developer
+
 
 - 📫 You can find me at: milenski.nikolov@yahoo.com
 
