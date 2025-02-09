@@ -10,7 +10,7 @@
   <!--icons and links-->
   <p align="center">
   <a href="https://www.linkedin.com/in/milen-nikolov-62455034b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="milenski.nikolov@yahoo.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e77799bd-8a56-47ed-bd0e-d6c766f30e20" alt="Email" title="milenski.nikolov@yahoo.com" height="50" width="50" /></a>
+  <a href="mailto:milenski.nikolov@yahoo.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/e77799bd-8a56-47ed-bd0e-d6c766f30e20" alt="Email" title="milenski.nikolov@yahoo.com" height="50" width="50" /></a>
   </p>
   </div>
 
