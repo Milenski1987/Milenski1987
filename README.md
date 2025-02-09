@@ -1,6 +1,6 @@
 ## Hi, my name is Milen Nikolov.
 
-<img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/0a703ad1-fe4e-434d-8051-57680a19fae2">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 About me:
 
 - 🌱 I’m Python Developer
