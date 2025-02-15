@@ -94,4 +94,4 @@
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Milenski1987&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Milen Nikolov's Github Stats" width="60%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milenski1987&theme=merko&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milenski1987&theme=dark&show_icons=true)]
