@@ -57,22 +57,22 @@
  
 <p align="left">
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="GitHub" **alt="GitHub" width="70" height="40" ></a>
+    <a href="#"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" **alt="GitHub" width="50" height="50" ></a>
   &emsp;
-    <a href="#"><img alt="Safari" src="https://logos-world.net/wp-content/uploads/2021/10/Safari-macOS-Logo-2020-present.png" title="Safari" width="70" height ="40" ></a>
+    <a href="#"><img alt="Safari" src="https://purepng.com/public/uploads/large/purepng.com-safari-iconsymbolsiconsapple-iosiosios-8-iconsios-8-7215225961106timx.png" title="Safari" width="50" height ="50" ></a>
   &emsp;
-    <a href="#"><img alt="Google Chrome" src="https://logos-world.net/wp-content/uploads/2020/08/Google-Chrome-Logo-2011-2014.png" title="Google Chrome" width="70" height ="40" ></a>
+    <a href="#"><img alt="Google Chrome" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" title="Google Chrome" width="50" height ="50" ></a>
   &emsp;
-    <a href="#"><img alt="Excel" src="https://e7.pngegg.com/pngimages/246/141/png-clipart-microsoft-office-word-logo-microsoft-office-2016-office-online-microsoft-office-365-office-software-symbol-miscellaneous-text.png" title="Microsoft Excel" width="80" height ="40" ></a>
+    <a href="#"><img alt="MS Office" src="https://github.com/user-attachments/assets/2f819c03-fd4a-4713-a49c-c5002e52047d" title="Microsoft Office" width="50" height ="50" ></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="left">
   &emsp;
-    <a href="#"><img src="https://www.fullstackpython.com/img/logos/pycharm.jpg" title="PyCharm" **alt="PyCharm" width="120" height="30" /></a>
+    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" **alt="PyCharm" width="50" height="50" /></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQl7Vb1cN5wuA-_EBEaVP9zll9VE3xtRn1A&s" width="100" height ="30" /></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" height ="50" /></a>
 </p>
 
 
@@ -80,9 +80,9 @@
  
 <p align="left">
    &emsp;
-    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Light.svg" title="Apple" **alt="Apple" width="40" height="40" /></a>
+    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Apple" **alt="Apple" width="50" height="50" /></a>
   &emsp;
-    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Light.svg" title="Windows" **alt="Windows" width="40" height="40" ></a>
+    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="Windows" **alt="Windows" width="50" height="50" ></a>
 </p>
 
 <br> 
