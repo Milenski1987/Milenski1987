@@ -72,7 +72,7 @@
   &emsp;
     <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" **alt="PyCharm" width="50" height="50" /></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50" height ="50" /></a>
+    <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" **alt="VS Code" width="50" height ="50" /></a>
 </p>
 
 
