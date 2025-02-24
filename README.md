@@ -17,7 +17,11 @@
   &emsp;
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height ="50"></a>
   &emsp;
+  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" **alt="PyCharm" width="50" height="50" /></a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height ="50"></a>
+  &emsp;
+  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" **alt="VS Code" width="50" height ="50" /></a>
   &emsp;
   <a href="https://github.com/Milenski1987"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" **alt="GitHub" width="50" height="50" ></a>
   &emsp;
@@ -26,10 +30,6 @@
   <a href="#"><img alt="Google Chrome" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" title="Google Chrome" width="50" height ="50" ></a>
   &emsp;
   <a href="#"><img alt="MS Office" src="https://github.com/user-attachments/assets/2f819c03-fd4a-4713-a49c-c5002e52047d" title="Microsoft Office" width="50" height ="50" ></a>
-  &emsp;
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" **alt="PyCharm" width="50" height="50" /></a>
-  &emsp;
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" **alt="VS Code" width="50" height ="50" /></a>
   &emsp;
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Apple" **alt="Apple" width="50" height="50" /></a>
   &emsp;
