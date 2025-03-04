@@ -31,7 +31,7 @@
   &emsp;
   <a href="#"><img alt="MS Office" src="https://github.com/user-attachments/assets/2f819c03-fd4a-4713-a49c-c5002e52047d" title="Microsoft Office" width="50" height ="50" ></a>
   &emsp;
-  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="Apple" **alt="Apple" width="50" height="50" /></a>
+  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apple-Dark.svg" title="macOS" **alt="macOS" width="50" height="50" /></a>
   &emsp;
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="Windows" **alt="Windows" width="50" height="50" ></a>
 </p>
