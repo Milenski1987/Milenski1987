@@ -15,11 +15,11 @@
 
 <p align="left"> 
   &emsp;
-  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height ="50"></a>
+  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" width="50" height ="50"></a>
   &emsp;
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" **alt="PyCharm" width="50" height="50" /></a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height ="50"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" width="50" height ="50"></a>
   &emsp;
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" **alt="VS Code" width="50" height ="50" /></a>
   &emsp;
