@@ -39,6 +39,7 @@
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="Windows" **alt="Windows" width="50" height="50" ></a>
 </p>
 
+---
 
 ### :zap: Github Stats
 
