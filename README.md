@@ -12,7 +12,7 @@
   </p>
   </div>
 
----2222
+---
 
 ## 🛠️ Technology stack:
 
