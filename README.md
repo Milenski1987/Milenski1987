@@ -13,7 +13,7 @@
   </div>
 
 ---
-
+дас
 ## 🛠️ Technology stack:
 
 <p align="left"> 
