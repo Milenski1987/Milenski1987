@@ -13,7 +13,7 @@
   </div>
 
 ---
-яве
+
 ## 🛠️ Technology stack:
 
 <p align="left"> 
