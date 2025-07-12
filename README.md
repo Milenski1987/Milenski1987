@@ -13,7 +13,7 @@
   </div>
 
 ---
-123
+
 ## 🛠️ Technology stack:
 
 <p align="left"> 
@@ -27,10 +27,6 @@
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" **alt="VS Code" width="50" height ="50" /></a>
   &emsp;
   <a href="https://github.com/Milenski1987"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" **alt="GitHub" width="50" height="50" ></a>
-  &emsp;
-  <a href="#"><img alt="Safari" src="https://purepng.com/public/uploads/large/purepng.com-safari-iconsymbolsiconsapple-iosiosios-8-iconsios-8-7215225961106timx.png" title="Safari" width="50" height ="50" ></a>
-  &emsp;
-  <a href="#"><img alt="Google Chrome" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png" title="Google Chrome" width="50" height ="50" ></a>
   &emsp;
   <a href="#"><img alt="MS Office" src="https://github.com/user-attachments/assets/2f819c03-fd4a-4713-a49c-c5002e52047d" title="Microsoft Office" width="50" height ="50" ></a>
   &emsp;
