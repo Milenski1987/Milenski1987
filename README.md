@@ -16,7 +16,7 @@
 
 ## 🛠️ Technology stack:
 
-<p align="left"> 
+<p align="center"> 
   &emsp;
   <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" width="50" height ="50"></a>
   &emsp;
