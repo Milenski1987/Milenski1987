@@ -28,6 +28,8 @@
   &emsp;
   <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" title="WordPress" width="50" height ="50"></a>
   &emsp;
+  <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" **alt="PostgreSQL" width="50" height="50" /></a>  
+  &emsp;
   <a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" **alt="VS Code" width="50" height ="50" /></a>
   &emsp;
   <a href="https://github.com/Milenski1987"><img alt="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" **alt="GitHub" width="50" height="50" ></a>
