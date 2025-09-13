@@ -13,7 +13,7 @@
   </div>
 
 ---
-eq
+
 <div id="user-content-toc">
     <ul align="center">
       <summary><h2 style="display: inline-block">🛠️ Technology stack:</h2></summary>
